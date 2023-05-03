@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "ZhuWuneng",
+    "version": "0.0.1",
+    "description": "chrome插件，为前端页面开发提供元素拖动修改定位功能",
+    "icons": {
+        "128": "img/logo.png",
+        "48": "img/logo.png",
+        "16": "img/logo.png"
+    },
+    "action": {
+        "default_icon": "img/logo.png",
+        "default_popup":"popup.html"
+    }
+}
